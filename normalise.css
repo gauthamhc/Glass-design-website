@@ -1,0 +1,19 @@
+h1 {
+  font-size: 2.2rem;
+  color: #fb7ba2;
+}
+h2 {
+  font-size: 1.8rem;
+  color: #f39f86;
+  font-weight: 500;
+}
+h3,
+p {
+  font-size: 1.6rem;
+  color: #f9484a;
+  font-weight: 600;
+}
+p {
+  font-size: 1.2rem;
+  font-weight: 400;
+}
